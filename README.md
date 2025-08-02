@@ -19,7 +19,6 @@ This project is a content-based movie recommendation system built using **Python
 - notebook.ipynb # Jupyter notebook for data processing
 - movies_dict.pkl # Dictionary of movies (title, ID)
 - similarity.pkl # Precomputed similarity matrix
-- requirements.txt # Project dependencies
 
 ---
 ### Download Model Files
