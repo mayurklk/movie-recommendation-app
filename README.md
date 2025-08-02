@@ -26,7 +26,7 @@ This project is a content-based movie recommendation system built using **Python
 
 Due to file size limitations, please download the following files manually and place them in the project folder:
 
-- [similarity.pkl]([https://drive.google.com/your-file-link](https://drive.google.com/file/d/1Qxne7Pj6r0F88NHBYs0cmsefs8JlfgF4/view?usp=sharing))
+- [similarity.pkl](https://drive.google.com/file/d/1Qxne7Pj6r0F88NHBYs0cmsefs8JlfgF4/view?usp=sharing)
 
 ---
 
